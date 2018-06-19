@@ -1,1 +1,1 @@
-minergate-cli -u Roku674@gmail.com --xmr
+minergate-cli -u Roku674@gmail.com --xmr 6
