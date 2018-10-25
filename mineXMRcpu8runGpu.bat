@@ -1,1 +1,0 @@
-minergate-cli --user Roku674@gmail.com --xmr 8 -g
